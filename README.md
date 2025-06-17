@@ -34,6 +34,7 @@ Compare wave patterns across countries, e.g., intense short waves vs. prolonged 
 link: https://docs.owid.io/projects/etl/api/covid/
 
 🛠️ Technologies Used
+
 Excel
 
 Python (Pandas, NumPy)
