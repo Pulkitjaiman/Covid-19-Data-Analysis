@@ -1,6 +1,7 @@
 📊 COVID-19 Wave Analysis
 
 🧾 Project Overview
+
 This project aims to analyze the spread dynamics of COVID-19 across various countries by identifying and characterizing distinct waves using time-series data. We investigate how the intensity, timing, and frequency of COVID-19 outbreaks varied over time and between countries.
 
 
