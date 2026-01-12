@@ -7,6 +7,7 @@ This project aims to analyze the spread dynamics of COVID-19 across various coun
 This goal focuses on understanding the evolution of the pandemic through various statistical and visual techniques. The following tasks were completed:
 
 ✅ Tasks Completed
+
 Detect and count distinct waves of COVID-19 using peak detection on smoothed daily case data.
 
 Measure wave height and duration, identifying peak values and the start-to-end span of each wave.
