@@ -3,8 +3,11 @@
 🧾 Project Overview
 This project aims to analyze the spread dynamics of COVID-19 across various countries by identifying and characterizing distinct waves using time-series data. We investigate how the intensity, timing, and frequency of COVID-19 outbreaks varied over time and between countries.
 
+
 🎯 Goal: Visualize Peaks, Waves, and Changes in Spread Dynamics
+
 This goal focuses on understanding the evolution of the pandemic through various statistical and visual techniques. The following tasks were completed:
+
 
 ✅ Tasks Completed
 
@@ -20,6 +23,7 @@ Visualize standard deviation/volatility in daily case counts to evaluate variabi
 
 Compare wave patterns across countries, e.g., intense short waves vs. prolonged long waves.
 
+
 📌 Key Insights from the Analysis
 📈 Multiple waves were detected for most countries, with varying degrees of intensity and duration.
 
@@ -31,8 +35,10 @@ Compare wave patterns across countries, e.g., intense short waves vs. prolonged 
 
 📊 High standard deviation in daily cases often corresponded with less controlled outbreaks or data inconsistencies.
 
+
 📂 Dataset
 link: https://docs.owid.io/projects/etl/api/covid/
+
 
 🛠️ Technologies Used
 
